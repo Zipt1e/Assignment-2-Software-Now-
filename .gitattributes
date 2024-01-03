@@ -1,1 +1,2 @@
 CSV1.csv filter=lfs diff=lfs merge=lfs -text
+CSV3.csv filter=lfs diff=lfs merge=lfs -text
